@@ -76,12 +76,13 @@ footer li {
 
 footer li img {
     height: 30px;
+    display: inline;
 }
 
 footer .container {
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 0%;
+    margin-bottom: 0%;
 }
 
 .container-flex {
