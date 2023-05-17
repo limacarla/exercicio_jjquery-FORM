@@ -2,7 +2,6 @@ $(document).ready(function(){
     $('#cpf').mask('000.000.000-00', {
         placeholder: '000.000.000-00'
     }) 
-    /*favor perguntar ao professor pq o type number não funciona, tive que colocar como tel*/
     $('#telefone').mask('(00)00000-0000', {
         placeholder: '(00)00000-0000'
     })
